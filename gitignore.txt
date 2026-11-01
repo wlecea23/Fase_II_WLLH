@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+# Environments
+
+.env
+
+.venv/
+
+venv/
+
+env/
+
+mlruns/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+
+.DS_Store
+
+# PyCharm
+
+.idea/
+
+# Visual Studio Code
+
+.vscode/
