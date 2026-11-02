@@ -1,23 +1,18 @@
-# -*- coding: utf-8 -*-
 import os
 import joblib
 import numpy as np
 
 BASE_DIR = os.path.dirname(
-    os.path.dirname(
         os.path.abspath(__file__)
-    )
 )
 
 MODEL_PATH = os.path.join(
     BASE_DIR,
-    "model",
     "model.pkl"
 )
 
 SCALER_PATH = os.path.join(
     BASE_DIR,
-    "model",
     "scaler.pkl"
 )
 
@@ -43,6 +38,6 @@ def predict(data):
         "prediction": int(prediction),
         "fraud_probability": round(
             float(probability),
-            4
+            6
         )
     }
