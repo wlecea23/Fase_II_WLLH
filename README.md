@@ -31,18 +31,6 @@ volver a probar la API
 ```
 ---
 
-## Dataset
-
-Credit Card Fraud Detection
-
-###### Fuente:
-
-```
-https://www.kaggle.com/mlg-ulb/creditcardfraud
-```
-
----
-
 ## Arquitectura
 
       Frontend (HTML)
