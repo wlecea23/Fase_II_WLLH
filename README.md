@@ -9,7 +9,7 @@ GitHub
   ↓
 clonar repositorio
   ↓
-entrar a la práctica Tema 15
+verificar archivos en carpeta raíz
   ↓
 crear entorno virtual
   ↓
@@ -100,7 +100,7 @@ sudo docker info
 
 ```powershell
 cd $HOME\Documents
-git clone https://github.com/MinaNik229/tema12-mlflow-colab.git
+git clone https://github.com/wlecea23/Fase_II_WLLH.git
 cd .\FASE_II_WLLH
 git status
 git branch --show-current
@@ -120,7 +120,7 @@ git pull origin main
 
 ```bash
 cd ~/Documents
-git clone https://github.com/MinaNik229/tema12-mlflow-colab.git
+git clone https://github.com/wlecea23/Fase_II_WLLH.git
 cd FASE_II
 git status
 git branch --show-current
